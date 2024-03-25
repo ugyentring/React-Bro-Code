@@ -1,0 +1,14 @@
+.student {
+  font-family: Cascadia Mono, sans-serif;
+  text-align: center;
+  border: 5px solid hsl(0, 65%, 53%);
+  border-radius: 5px;
+  padding: 4px;
+  margin-top: 10px;
+
+}
+
+.student h3{
+    font-style: normal;
+    font-weight: 400;
+}
